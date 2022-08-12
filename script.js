@@ -35,7 +35,7 @@ function typewriter() {
     }
     else {
         quoteArray[index] = ' ';
-        setTimeout('typewriter()', 3000);
+        setTimeout('typewriter()', 8000);
         textPositon = 0;
         flag = true;
 
